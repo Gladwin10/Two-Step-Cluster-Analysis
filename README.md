@@ -3,17 +3,17 @@ Two step cluster analysis was performed in a health drink dataset to find the nu
 
 
 # Data Description
-resid	=	Respondent Id		
-familysz	=	Family Size		
-chb18	=	Children below 18		
-cha18	=	Children above 18		
-borvita	=	Bournvita	=	Yes = 1, No = 0
-milo	=	Milo	=	Yes = 1, No = 0
-zandu	=	Zanduchyawanprash	=	Yes = 1, No = 0
-dred	=	Dabur Red	=	Yes = 1, No = 0
-dblue	=	Dabur Blue	=	Yes = 1, No = 0
-prtnex	=	Protinex	=	Yes = 1, No = 0
-holik	=	Horlicks	=	Yes = 1, No = 0
-badya	=	Baidyanath	=	Yes = 1, No = 0
-complan	=	Complan	=	Yes = 1, No = 0
+resid	=	Respondent Id		<br />
+familysz	=	Family Size		<br />
+chb18	=	Children below 18		<br />
+cha18	=	Children above 18		<br />
+borvita	=	Bournvita	=	Yes = 1, No = 0 <br />
+milo	=	Milo	=	Yes = 1, No = 0 <br />
+zandu	=	Zanduchyawanprash	=	Yes = 1, No = 0 <br />
+dred	=	Dabur Red	=	Yes = 1, No = 0<br />
+dblue	=	Dabur Blue	=	Yes = 1, No = 0<br />
+prtnex	=	Protinex	=	Yes = 1, No = 0<br /><br />
+holik	=	Horlicks	=	Yes = 1, No = 0<br />
+badya	=	Baidyanath	=	Yes = 1, No = 0<br />
+complan	=	Complan	=	Yes = 1, No = 0<br />
 
