@@ -10,10 +10,10 @@ cha18	=	Children above 18		<br />
 borvita	=	Bournvita	=	Yes = 1, No = 0 <br />
 milo	=	Milo	=	Yes = 1, No = 0 <br />
 zandu	=	Zanduchyawanprash	=	Yes = 1, No = 0 <br />
-dred	=	Dabur Red	=	Yes = 1, No = 0<br />
-dblue	=	Dabur Blue	=	Yes = 1, No = 0<br />
-prtnex	=	Protinex	=	Yes = 1, No = 0<br /><br />
-holik	=	Horlicks	=	Yes = 1, No = 0<br />
-badya	=	Baidyanath	=	Yes = 1, No = 0<br />
-complan	=	Complan	=	Yes = 1, No = 0<br />
+dred	=	Dabur Red	=	Yes = 1, No = 0 <br />
+dblue	=	Dabur Blue	=	Yes = 1, No = 0 <br />
+prtnex	=	Protinex	=	Yes = 1, No = 0 <br />
+holik	=	Horlicks	=	Yes = 1, No = 0 <br />
+badya	=	Baidyanath	=	Yes = 1, No = 0 <br />
+complan	=	Complan	=	Yes = 1, No = 0 <br />
 
